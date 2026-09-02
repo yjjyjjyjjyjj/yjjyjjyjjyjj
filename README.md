@@ -29,5 +29,5 @@ I enjoy turning product ideas into dependable backend services—keeping the cod
 </p>
 
 <div align="center">
-  <sub>Thanks for visiting. Feel free to explore my repositories.</sub>
+  <sub></sub>
 </div>
